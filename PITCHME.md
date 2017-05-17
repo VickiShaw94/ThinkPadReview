@@ -1,7 +1,7 @@
 
 # ThinkPad Review
 
-Out of Box Experience
+The Out of Box Experience
 
 #HSLIDE
 
@@ -16,17 +16,17 @@ Bowing between covers
 
 ![Acover](assets/opening.jpg)
 
-## Exterior
+### Exterior
 
 #VSLIDE
 
 ## Exterior
-- Lenovo logo debossing feels well integrated
+- Lenovo logo debossing integrated well
 - Angled bottom creates elevation, slim feel, easy pickup
-- Charging LED is subtle and helpful
+- Subtle charging LED
 - Hinges tight though robust
 - Battery substitute for more mobility
-- Long cord is accomodating 
+- Long cord 
 
 #VSLIDE
 
@@ -37,8 +37,8 @@ Bowing between covers
 
 ## Interior
 - No glare with matte screen
-- Practical outer lip with grip on B cover
-- Large bezel makes screen feel small
+- Practical outer grip on B cover
+- Large bezel
 - Large gap between B-C covers feels non-continuous
 - Plastic cover asynchronous with other textures
     
