@@ -1,14 +1,14 @@
-################# Flux
+theme : moon
 
-An application architecture for React
+# ThinkPad Review
+
+Out of Box Experience
 
 #HSLIDE
 
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+### T470
+- some details
+* more details
 
 #HSLIDE
 
