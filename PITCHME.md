@@ -7,10 +7,7 @@ The Out of Box Experience
 
 # T470
 
-#HSLIDE
 
-![image of bowing](assets/IMG_2503.JPG)
-Bowing between covers
 
 #HSLIDE
 
@@ -18,9 +15,9 @@ Bowing between covers
 
 ### Exterior
 
-#VSLIDE
+#HSLIDE
 
-## Exterior
+#### Exterior
 - Lenovo logo debossing integrated well
 - Angled bottom creates elevation, slim feel, easy pickup
 - Subtle charging LED
@@ -33,6 +30,14 @@ Bowing between covers
 ![chargingLED](assets/charging light.jpg)
 
 
+
+
+
+#HSLIDE
+
+![interior](assets/interior.jpg)
+####Interior
+
 #HSLIDE
 
 ## Interior
@@ -41,7 +46,18 @@ Bowing between covers
 - Large bezel
 - Large gap between B-C covers feels non-continuous
 - Plastic cover asynchronous with other textures
-    
+ 
+#VSLIDE
+
+![image of bowing](assets/IMG_2503.JPG)
+Bowing between covers
+
+   
+#HSLIDE
+
+![experience](assets/experience.jpg)
+####Experience
+
 #HSLIDE
 
 ##Experience
@@ -53,5 +69,6 @@ Bowing between covers
 #VSLIDE
 
 ![C cover](assets/C cover.jpg)
+
 
 
