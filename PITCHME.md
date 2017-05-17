@@ -1,5 +1,4 @@
 
-
 # ThinkPad Review
 
 Out of Box Experience
@@ -12,4 +11,7 @@ Out of Box Experience
 
 #HSLIDE
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
