@@ -5,7 +5,7 @@ Out of Box Experience
 
 #HSLIDE
 
-### T470
+# T470
 
 #HSLIDE
 
@@ -16,7 +16,11 @@ Bowing between covers
 
 ![Acover](assets/opening.jpg)
 
-#### Exterior
+## Exterior
+
+#VSLIDE
+
+## Exterior
 - Lenovo logo debossing feels well integrated
 - Angled bottom creates elevation, slim feel, easy pickup
 - Charging LED is subtle and helpful
@@ -31,7 +35,7 @@ Bowing between covers
 
 #HSLIDE
 
-### Interior
+## Interior
 - No glare with matte screen
 - Practical outer lip with grip on B cover
 - Large bezel makes screen feel small
