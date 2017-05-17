@@ -63,7 +63,7 @@ Bowing between covers
    
 #HSLIDE
 
-![experience](assets/experience.jpg)
+![experience](assets/experience.png)
 #### Experience
 
 
