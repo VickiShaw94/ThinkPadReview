@@ -13,11 +13,14 @@ The Out of Box Experience
 
 ![Acover](assets/opening.jpg)
 
-### Exterior
+#### Exterior
+
+
+
 
 #HSLIDE
 
-#### Exterior
+### Exterior
 - Lenovo logo debossing integrated well
 - Angled bottom creates elevation, slim feel, easy pickup
 - Subtle charging LED
@@ -36,11 +39,14 @@ The Out of Box Experience
 #HSLIDE
 
 ![interior](assets/interior.jpg)
-####Interior
+#### Interior
+
+
+
 
 #HSLIDE
 
-## Interior
+### Interior
 - No glare with matte screen
 - Practical outer grip on B cover
 - Large bezel
@@ -52,15 +58,21 @@ The Out of Box Experience
 ![image of bowing](assets/IMG_2503.JPG)
 Bowing between covers
 
+
+
    
 #HSLIDE
 
 ![experience](assets/experience.jpg)
-####Experience
+#### Experience
+
+
+
+
 
 #HSLIDE
 
-##Experience
+### Experience
 - Power button and fingerprint reader aligned
 - Uniform keyboard bevel synchronizes with trackpad
 - Muted mechanical click matches trackpad click feedback
