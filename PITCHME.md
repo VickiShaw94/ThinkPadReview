@@ -1,4 +1,4 @@
-theme : moon
+
 
 # ThinkPad Review
 
