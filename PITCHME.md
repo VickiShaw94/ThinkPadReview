@@ -15,3 +15,9 @@ Out of Box Experience
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+#HSLIDE
+
+![image of bowing](assets/IMG_2503.JPG)
+Bowing between covers
+
