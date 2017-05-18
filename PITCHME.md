@@ -53,19 +53,10 @@ Bowing between covers
 
 
 
-   
-#HSLIDE
-
-![experience](assets/experience.jpg)
-#### Experience
-
-
-
-
 
 #HSLIDE
 
-# X1 Carbon 
+# X1 Carbon (5th)
 ## Yoda
 
 
@@ -91,8 +82,6 @@ Bowing between covers
 
 +++?image=assets/Yoda/dent.jpg
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/Yoda/flush.jpg
-<!-- .slide: data-background-transition="none" -->
 +++?image=assets/Yoda/glossyLogo.jpg
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/Yoda/huggingLogo.jpg
@@ -112,10 +101,14 @@ Bowing between covers
 - Subtle charging LED
 - Poor sound quality
 - Muted mechanical click
+- Misaligned plugs
 
 #VSLIDE
 
-![chargingLED](assets/charging light.jpg)
++++?image=assets/charging\ light.jpg
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/Yoda/flush.jpg
+<!-- .slide: data-background-transition="none" -->
 
 
 
