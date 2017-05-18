@@ -17,7 +17,6 @@ The Out of Box Experience
 
 
 
-
 #HSLIDE
 
 ### Exterior
@@ -101,3 +100,21 @@ Bowing between covers
 - Economical screen space
 - Touchpoint froze upon startup, required updates
 - Smooth touchpad texture
+
+
+#HSLIDE
+
+## Introducing Workflow
+
++++?image=assets/yoda/dent.jpg
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/yoda/flush.jpg
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/Yoda/glossyLogo.jpg
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/Yoda/huggingLogo.jpg
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/Yoda/nonHuggingLogo.jpg
+<!-- .slide: data-background-transition="none" -->
+
+
