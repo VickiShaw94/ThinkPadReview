@@ -104,7 +104,7 @@ Bowing between covers
 
 #HSLIDE
 
-## Introducing Workflow
+## Details
 
 +++?image=assets/Yoda/dent.jpg
 <!-- .slide: data-background-transition="none" -->
@@ -120,3 +120,12 @@ Bowing between covers
 <!-- .slide: data-background-transition="none" -->
 
 
+
+#HSLIDE
+
+###Both
+- No glare with matte screen
+- Uniform keyboard bevel
+- Subtle charging LED
+- Poor sound quality
+- Muted mechanical click
