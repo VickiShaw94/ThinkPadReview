@@ -6,7 +6,7 @@ The Out of Box Experience
 #HSLIDE
 
 # T470
-
+##Windu
 
 
 #HSLIDE
@@ -84,3 +84,20 @@ Bowing between covers
 
 
 
+
+
+#HSLIDE
+
+# X1 Carbon 
+## Yoda
+
+
+
+#HSLIDE
+
+### Interior
+
+- Built-in keyboard 
+- Economical screen space
+- Touchpoint froze upon startup, required updates
+- Smooth touchpad texture
