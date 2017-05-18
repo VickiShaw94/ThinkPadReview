@@ -87,8 +87,6 @@ Bowing between covers
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/Yoda/nonHuggingLogo.jpg
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/Yoda/yoda
-<!-- .slide: data-background-transition="none" -->
 
 
 
