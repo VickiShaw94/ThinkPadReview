@@ -77,7 +77,6 @@ Bowing between covers
 - Smooth touchpad texture
 - Short charging cord, chunky adapter 
 
-#VSLIDE
 
 
 +++?image=assets/Yoda/dent.jpg
@@ -103,7 +102,6 @@ Bowing between covers
 - Muted mechanical click
 - Misaligned plugs
 
-#VSLIDE
 
 +++?image=assets/charging\ light.jpg
 <!-- .slide: data-background-transition="none" -->
@@ -115,7 +113,7 @@ Bowing between covers
 #HSLIDE 
 
 #Thank You
-###Vicki Shaw 
+####Vicki Shaw 
 ####5.18.2017
 
 
