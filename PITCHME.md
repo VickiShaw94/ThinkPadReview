@@ -106,15 +106,17 @@ Bowing between covers
 
 ## Introducing Workflow
 
-+++?image=assets/yoda/dent.jpg
++++?image=assets/Yoda/dent.jpg
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/yoda/flush.jpg
++++?image=assets/Yoda/flush.jpg
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/Yoda/glossyLogo.jpg
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/Yoda/huggingLogo.jpg
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/Yoda/nonHuggingLogo.jpg
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/Yoda/yoda
 <!-- .slide: data-background-transition="none" -->
 
 

@@ -3,4 +3,8 @@ theme : moon
 ## logo : assets/new-lenovo-logo.png
 
 # logo : assets/ThinkPad-POS-Color.eps
+#
+#
 
+
+background-size : cover
