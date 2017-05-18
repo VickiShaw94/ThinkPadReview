@@ -22,15 +22,9 @@ The Out of Box Experience
 ### Exterior
 - Lenovo logo debossing integrated well
 - Angled bottom experience
-- Subtle charging LED
 - Hinges tight though robust
 - Battery mobility
 - Long cord 
-
-#VSLIDE
-
-![chargingLED](assets/charging light.jpg)
-
 
 
 
@@ -46,11 +40,11 @@ The Out of Box Experience
 #HSLIDE
 
 ### Interior
-- No glare with matte screen
 - Practical outer grip on B cover
 - Large bezel
 - Large gap between B-C covers
 - Asynchronous plastic cover texture
+- Power button and fingerprint reader aligned
  
 #VSLIDE
 
@@ -71,24 +65,14 @@ Bowing between covers
 
 #HSLIDE
 
-### Experience
-- Power button and fingerprint reader aligned
-- Uniform keyboard bevel
-- Muted mechanical click 
-- Poor sound quality
-
-#VSLIDE
-
-![C cover](assets/C cover.jpg)
-
-
-
+# X1 Carbon 
+## Yoda
 
 
 #HSLIDE
 
-# X1 Carbon 
-## Yoda
+![interior](assets/Yoda/interior.png)
+#### Interior
 
 
 
@@ -100,11 +84,10 @@ Bowing between covers
 - Economical screen space
 - Touchpoint froze upon startup, required updates
 - Smooth touchpad texture
+- Short charging cord, chunky adapter 
 
+#VSLIDE
 
-#HSLIDE
-
-## Details
 
 +++?image=assets/Yoda/dent.jpg
 <!-- .slide: data-background-transition="none" -->
@@ -129,3 +112,17 @@ Bowing between covers
 - Subtle charging LED
 - Poor sound quality
 - Muted mechanical click
+
+#VSLIDE
+
+![chargingLED](assets/charging light.jpg)
+
+
+
+#HSLIDE 
+
+#Thank You
+###Vicki Shaw 
+####5.18.2017
+
+
