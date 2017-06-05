@@ -1,3 +1,4 @@
 # ThinkPadReview
-# ThinkPadReview
-# ThinkPadReview
+My first attempt at GitPitch--a system review on a ThinkPad T470, and X1 Carbon
+
+To open and view in a web-browser, 
